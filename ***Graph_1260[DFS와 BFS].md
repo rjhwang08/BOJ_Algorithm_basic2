@@ -2,6 +2,8 @@
 
 - bfs와 dfs에 대한 개념적 문제
 - BOJ 제출에 간선리스트로 구현된 답과 dfs를 비재귀로 구현한 2개의 답이 있으니 반드시 참고
+- ArrayList를 정렬하는 Collections.sort() 사용법을 잘 알아둬야 함
+[참고1(상세)](https://wjheo.tistory.com/entry/Java-%EC%A0%95%EB%A0%AC%EB%B0%A9%EB%B2%95-Collectionssort) [참고2(간단)](https://includestdio.tistory.com/35)
 
 1. Java
 ```java
