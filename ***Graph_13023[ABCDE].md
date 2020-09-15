@@ -54,15 +54,15 @@ public class Main {
 				int D = edges.get(j).to;
 				// 서로 같은 놈이 하나라도 있으면 안된다.
 				if (A == B || A == C || A == D || B == C || B == D || C == D) {
-                    continue;
-                }
+                    			continue;
+                		}
 				//2. 인접행렬을 이용하여 B와 C가 연결되어 있는지 확인
 				if(!a[B][C]) continue;
 				//3. 마지막으로 D와 연결된 A,B,C,D가 아닌 정점이 있는지 확인
 				for(int E : graph[D]) {
 					if (E == A || E == B || E == C || E == D) {
-                        continue;
-                    }
+                        			continue;
+                    			}
 					System.out.println(1);
 					System.exit(0);
 				}
