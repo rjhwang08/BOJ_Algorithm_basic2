@@ -78,7 +78,4 @@ public class Main {
 }
 ```
 
-2. Java
-```java
-
-```
+2. Java(BFS-BOJ 풀이 참고)
