@@ -3,8 +3,7 @@
 1. Java(BFS 이용(
 ```java
 import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 class Pair {
 	int row, column;
@@ -80,8 +79,7 @@ public class Main {
 2. Java(DFS 이용)
 ```java
 import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 class Pair {
 	int row, column;
