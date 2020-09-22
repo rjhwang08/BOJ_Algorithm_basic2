@@ -5,14 +5,6 @@
 import java.io.*;
 import java.util.*;
 
-class Pair{
-	int row, column;
-	Pair(int row, int column){
-		this.row = row;
-		this.column = column;
-	}
-}
-
 public class Main {
 	static final int[] dx = {0, 1, 0, -1};
 	static final int[] dy = {1, 0, -1, 0};
