@@ -71,3 +71,5 @@ public class Main {
 	}
 }
 ```
+
+2. Java(BOJ 풀이 참고)
